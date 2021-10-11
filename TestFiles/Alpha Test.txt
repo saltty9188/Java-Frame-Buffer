@@ -1,0 +1,11 @@
+INIT 1000 1000
+
+#Draw three overlapping circles
+FILL_CIRCLE 400 600 300 (255,0,0,128)
+
+FILL_CIRCLE 600 600 300 (0,0,255,128)
+
+FILL_CIRCLE 500 400 300 (255,255,255,128)
+
+
+SAVE Alpha-Test.bmp

@@ -1,0 +1,11 @@
+INIT 1024 1024
+
+#Background circle to test png alpha
+#FILL_CIRCLE 500 500 400 (255, 255, 255, 255)
+
+#Load a png
+LOAD_PNG TestFiles\artisanstextures64.png -save
+
+
+
+SAVE test-png.bmp
