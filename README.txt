@@ -1,4 +1,5 @@
-Commands are as follows.
+The program uses command line arguments to receive a command file to draw to the frame buffer.
+The command files are text files that have the following commands.
 
 INIT |WIDTH| |HEIGHT|
 Initialises the framebuffer of WIDTHxHEIGHT pixels. This must be the first command in a file.
